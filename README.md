@@ -1,4 +1,4 @@
-# Blackcoffer Data Extraction & Text Analysis Assignment
+# Context-Aware Content Extraction and NLP-Driven Sentiment Analysis
 
 ## ✅ How the Solution Was Approached
 
